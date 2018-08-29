@@ -1,0 +1,1 @@
+docker run -it user-edge-service:latest --redis.address=10.10.211.110
